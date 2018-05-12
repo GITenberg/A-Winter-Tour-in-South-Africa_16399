@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6679'
     url: http://www.gutenberg.org/2009/agents/6679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16399#A-Winter-Tour-in-South-Africa
 gutenberg_bookshelf:
 - South Africa
 - Africa
